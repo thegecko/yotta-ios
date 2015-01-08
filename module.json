@@ -1,0 +1,22 @@
+{
+  "name": "yotta-ios",
+  "version": "0.0.1",
+  "description": "Yotta's first iOS application",
+  "keywords": [
+    "ios",
+    "arm"
+  ],
+  "author": "Rob Moran",
+  "homepage": "",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/MIT",
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "framework-uikit": "~0.0.1"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
