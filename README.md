@@ -9,6 +9,6 @@ ios-sim (https://github.com/phonegap/ios-sim)
 
 ###iOS cmake examples
 
-https://github.com/phonegap/ios-sim
+https://github.com/forexample/testapp
 
 https://code.google.com/p/ios-cmake
