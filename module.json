@@ -14,9 +14,7 @@
       "type": "MIT"
     }
   ],
-  "dependencies": {
-    "framework-uikit": "~0.0.1"
-  },
+  "dependencies": {},
   "targetDependencies": {},
   "bin": "./source"
 }
